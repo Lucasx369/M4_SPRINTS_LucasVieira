@@ -1,13 +1,13 @@
 //4 Leds do circuito
-const int ledLaranja = 33;
-const int ledAzul = 14;
-const int ledRoxo = 27;
-const int ledCiano = 25;
+const int ledLaranja = 21;
+const int ledAzul = 48;
+const int ledRoxo = 0;
+const int ledCiano = 36;
 //Dispositivo de sinalização de áudio
-const int buzzer = 2;
+const int buzzer = 1;
 //Sensor de luminosidade
 const int ldr = 15;
-//Botão de armazenamento de um valor binário lido pelo LDR
+//Botão de armazenamento de um valsor binário lido pelo LDR
 const int botaoVermelho = 18;
 //Botão para exibir no led os valores armazenados 
 const int botaoAmarelo = 5;
